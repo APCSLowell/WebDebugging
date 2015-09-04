@@ -8,6 +8,7 @@ Some common problems that could cause your program not to work on the web are:
 - Using decimals for x and y coordinates
 - Integer division
 - Extra semi-colons
+- The name of the .pde file doesn't match the name in the canvas id tag in index.html
 
 To display our AP Java programs on the web, we're using [processing.js](http://processingjs.org/). Not all Processing functions are compatible with processing.js. You can check [this list](http://processingjs.org/reference/) to see if you are using a function that isn't supported. 
 
