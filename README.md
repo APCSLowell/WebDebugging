@@ -9,3 +9,5 @@ Other problems that could cause your program not to work on the web are:
 - Using decimals for x and y coordinates
 - Integer division
 - Extra semi-colons
+
+You can find the error message for your webpage by opening the *web console* or *javascript console* in your browser.
