@@ -10,4 +10,4 @@ Other problems that could cause your program not to work on the web are:
 - Integer division
 - Extra semi-colons
 
-You can find the error message for your webpage by opening the *web console* or *javascript console* in your browser.
+You can find the error message for your webpage by opening the *web console* or *javascript console* in your browser. To open the console in Chrome, press the F12 key.
