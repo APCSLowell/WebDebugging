@@ -3,7 +3,8 @@ To display our AP Java programs on the web, we're using [processing.js](http://p
 
 Other problems that could cause your program not to work on the web are:
 - Naming a variable with the same name as a function
-- Naming a function with a name that is already used in Processing
+- Naming two variables with the same name
+- Naming a function or a variable with a name that is already used in Processing
 - Using an image as an argument in `background()`
 - Using `System.out.println()`
 - Using decimals for x and y coordinates
