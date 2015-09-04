@@ -1,5 +1,5 @@
 # Help! My program runs in Processing but not on GitHub
-To display our AP Java programs on the web, we're using [Processing.js](http://processingjs.org/). Not all Processing functions are compatible with processing.js. You can check [this list](http://processingjs.org/reference/) of supported functions.  
+To display our AP Java programs on the web, we're using [processing.js](http://processingjs.org/). Not all Processing functions are compatible with processing.js. You can check [this list](http://processingjs.org/reference/) of supported functions.  
 
 Other problems that could cause your program not to work on the web are:
 - Naming a variable with the same name as a function
