@@ -3,6 +3,7 @@ Some common problems that could cause your program not to work on the web are:
 - Naming a variable with the same name as a function
 - Naming two variables with the same name
 - Naming a function or a variable with a name that is already used in Processing
+- Using `CHORD` or `PIE` modes with `arc()`
 - Using an image as an argument in `background()`
 - Leaving the debugging tools `System.out.println()` or `System.out.print()` in your finished program
 - Using decimals for x and y coordinates
