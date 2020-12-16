@@ -11,7 +11,7 @@ Some common problems that could cause your program not to work on the web are:
 - Integer division
 - Extra semi-colons
 - The name of the `.pde` file doesn't match the name in the canvas id tag in `index.html`
-- If you are using multiple `.pde` files you will need to list them in `index.html` using a canvas tag like `<canvas id="AsteroidsGame" data-processing-sources="Asteroid.pde AsteroidsGame.pde Floater.pde Spaceship.pde Stars.pde"> </canvas>`
+- If you are using multiple `.pde` files you will need to list them in `index.html` using a canvas tag like `<canvas id="AsteroidsGame" data-processing-sources="Asteroid.pde AsteroidsGame.pde Floater.pde Spaceship.pde Star.pde"> </canvas>`
 
 To display our AP Java programs on the web, we're using [processing.js](http://processingjs.org/). Not all Processing functions are compatible with processing.js. You can check [this list](http://processingjs.org/reference/) to see if you are using a function that isn't supported. 
 
