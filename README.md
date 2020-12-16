@@ -9,7 +9,7 @@ Some common problems that could cause your program not to work on the web are:
 - Using an image as an argument in `background()`
 - Using decimals for x and y coordinates
 - Integer division
-- Extra semi-colons
+- Extra curly braces and/or semi-colons
 - The name of the `.pde` file doesn't match the name in the canvas id tag in `index.html`
 - If you are using multiple `.pde` files you will need to list them in `index.html` using a canvas tag like `<canvas id="AsteroidsGame" data-processing-sources="Asteroid.pde AsteroidsGame.pde Floater.pde Spaceship.pde Star.pde"> </canvas>`
 
