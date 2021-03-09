@@ -10,7 +10,8 @@ Some common problems that could cause your program not to work on the web are:
 - Using decimals for x and y coordinates
 - Integer division
 - Extra curly braces and/or semi-colons
-- No spaces in an `ArrayList` declaration (e.g. `ArrayList<Integer>someList` instead of `ArrayList <Integer> someList`)
+- No spaces in an `ArrayList` declaration or initialization (e.g. `ArrayList<Integer>someList` instead of `ArrayList <Integer> someList`)
+- Calling the `ArrayList` function `removeAll()`
 - The name of the `.pde` file doesn't match the name in the canvas id tag in `index.html`
 - If you are using multiple `.pde` files you will need to list them in `index.html` using a canvas tag like `<canvas id="AsteroidsGame" data-processing-sources="Asteroid.pde AsteroidsGame.pde Floater.pde Spaceship.pde Star.pde"> </canvas>`
 
