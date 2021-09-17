@@ -1,6 +1,6 @@
 # Help! My program runs in Processing but not on GitHub
 Some common problems that could cause your program not to work on the web are:
-- Using `circle()`, `square()`,`clear()`, `delay()`, `push()`, pop()` or other functions that aren't implemented in [processing.js](http://processingjs.org/reference/)
+- Using `circle()`, `square()`,`clear()`, `delay()`, `push()`, `pop()` or other functions that aren't implemented in [processing.js](http://processingjs.org/reference/)
 - Leaving the debugging tools `System.out.println()` or `System.out.print()` in your finished program
 - Naming a variable with the same name as a function
 - Naming two variables with the same name
